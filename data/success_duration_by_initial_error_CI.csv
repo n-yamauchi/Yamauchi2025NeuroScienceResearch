@@ -1,0 +1,4 @@
+﻿Difficulty,Mean_Duration_No_Error,STD_Duration_No_Error,Mean_Duration_With_Error,STD_Duration_With_Error,CI_Duration_No_Error,CI_Duration_With_Error
+Easy,1.0,0.0,2.188209843158464,0.46888183537432887,,0.015119205872804908
+Mid,1.0,0.0,2.0,0.0,,
+Diff,1.0,0.0,,0.0,,

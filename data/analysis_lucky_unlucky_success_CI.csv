@@ -1,0 +1,4 @@
+Difficulty,Success_Rate_After_Error,Mean_Duration_After_Error,STD_Duration_After_Error,Success_Rate_Lucky,Mean_Duration_Lucky,STD_Duration_Lucky,CI_Duration_After_Error,CI_Duration_Lucky,CI_Success_Rate_After_Error,CI_Success_Rate_Lucky
+Easy,1.0,2.188209843158464,0.46888183537432887,1.0,1.0,0.0,,,0.0,0.0
+Mid,0.7697787776527935,2.0,0.0,1.0,1.0,0.0,,,0.015582088450219467,0.0
+Diff,0.0,1.0,0.0,1.0,1.0,0.0,,,0.0010238862336953872,0.0
